@@ -91,7 +91,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -115,7 +115,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 150%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -125,11 +125,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 10%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -145,7 +145,7 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
         padding: 0.8%;
         position:relative;
@@ -157,7 +157,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -191,7 +191,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -215,7 +215,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 200%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -225,11 +225,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 4%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -245,7 +245,7 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
         padding: 0.8%;
         position:relative;
@@ -257,7 +257,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -291,7 +291,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -315,7 +315,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 200%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -325,11 +325,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 10%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -345,7 +345,7 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
         padding: 0.8%;
         position:relative;
@@ -357,7 +357,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -391,7 +391,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -415,7 +415,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 200%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -425,11 +425,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 4%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -445,9 +445,9 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
-        padding: 1.2%;
+        padding: 0.8%;
         position:relative;
         margin-left: 1%;
         border-radius: 10px;
@@ -457,7 +457,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -491,7 +491,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -515,7 +515,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 200%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -525,11 +525,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 10%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -545,7 +545,7 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
         padding: 0.8%;
         position:relative;
@@ -557,7 +557,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -591,7 +591,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
@@ -615,7 +615,7 @@
         position: fixed;
         display: block;
         font-weight: bolder;
-        font-size: 200%;
+        font-size: 120%;
         padding: 2%;
     }
     .creator{
@@ -625,11 +625,11 @@
         width: 100%;
         left: 0%;
         background:  rgb(235, 220, 220);
-        padding: 2% 2% 2% 2%;
+        padding: 2% 2% 2% 15%;
     }
     #todoValue{
-        width: 60%;
-        font-size: 150%;
+        width: 50%;
+        font-size: 100%;
         height: 1%;
         padding: 0.3%;
         border: 2px solid black;
@@ -645,7 +645,7 @@
         background-color: red;
     }
     #addToDo, #clear{
-        font-size: 128%;
+        font-size: 100%;
         height: 100%;
         padding: 0.8%;
         position:relative;
@@ -657,7 +657,7 @@
     }
     li {
         background: #f4f4f4;
-        font-size: 120%;
+        font-size: 100%;
         margin-left: 10%;
         margin-top: 0.3%;
         padding: 10px;
@@ -691,7 +691,7 @@
     .delete{
         background-color: red;
         color: white;
-        font-size: 120%;
+        font-size: 100%;
         border: none;
         border-radius: 3px;
         word-wrap: normal;
