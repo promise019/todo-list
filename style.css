@@ -1,4 +1,104 @@
-@media only screen and (min-width: 913px){
+@media only screen and (min-width: 1001px){
+    body{
+        display: flex;
+        justify-content: center;
+        background: rgb(214, 157, 157, 0.3);
+        overflow: hidden;
+    }
+    header{
+        background-color:rgb(235, 220, 220);
+        width: 100%;
+        text-align: center;
+        height: fit-content;
+        top: 0%;
+        z-index: 1;
+        position: fixed;
+        display: block;
+        font-weight: bolder;
+        font-size: 120%;
+        padding: 2%;
+    }
+    .creator{
+        display: flex;
+        position: fixed;
+        bottom: 0%;
+        width: 100%;
+        left: 0%;
+        background:  rgb(235, 220, 220);
+        padding: 2% 2% 2% 15%;
+    }
+    #todoValue{
+        width: 50%;
+        font-size: 100%;
+        height: 1%;
+        padding: 0.3%;
+        border: 2px solid black;
+        border-radius: 10px;
+        resize: none;
+    }
+    #addToDo{
+        background-color: green;
+        border: none;
+        color: #f4f4f4;
+    }
+    #clear{
+        background-color: red;
+    }
+    #addToDo, #clear{
+        font-size: 100%;
+        height: 100%;
+        padding: 0.8%;
+        position:relative;
+        margin-left: 1%;
+        border-radius: 10px;
+        border: none;
+        color: white;
+        font-weight: bold;
+    }
+    li {
+        background: #f4f4f4;
+        font-size: 100%;
+        margin-left: 10%;
+        margin-top: 0.3%;
+        padding: 10px;
+        display: flex;
+        width: 77%;
+        justify-content: space-between;
+        cursor: pointer;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+        overflow-wrap: anywhere;
+    }
+    .container{
+        position: fixed;
+        margin-top: 4%;
+        top: 0%;
+        height: 75%;
+        width: 100%;
+        overflow-y: scroll;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    .container::-webkit-scrollbar{
+       width: 20px;
+    }
+    .container::-webkit-scrollbar-thumb:hover{
+        background-color: aqua;
+        height: 7px;
+    }
+    #show-toDo{
+        width: 100%;
+    }
+    .delete{
+        background-color: red;
+        color: white;
+        font-size: 120%;
+        border: none;
+        border-radius: 3px;
+        word-wrap: normal;
+    }
+}
+
+@media only screen and (min-width: 913px) and (max-width: 1000px){
     body{
         display: flex;
         justify-content: center;
